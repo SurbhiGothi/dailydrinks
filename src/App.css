@@ -1,0 +1,81 @@
+.App {
+  margin: auto;
+  width: 90%;
+}
+
+.myForm{
+  margin: 0 auto;
+  background-color: #dfe6e9;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.formField{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.myButton{
+  width: 100%;
+  background-color: #00b894;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.myList{
+  list-style: none;
+}
+.btn{
+  background-color: #00b894 !important;
+  color: white !important;
+}
+.customCol{
+  vertical-align: middle !important;
+}
+.customtable img{
+  max-width: 100px;
+    max-height: 100px;
+}
+.mainCard{
+  text-align: center;
+}
+
+.customCard{
+  padding: 10px;
+  margin: 20px;
+  width: 18rem;
+  /* display: inline-block !important; */
+}
+.customCard img{
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.action{
+  width: 20%;
+  text-align: center;
+}
+.mainHeader{
+  font-size: 30px;
+  padding: 22px 0px;
+  font-weight: bold;
+  color: #00b894;
+}
+.mainHeader span{
+  padding-bottom: 22px
+}
+
+.noRecord{
+  padding-top: 38px;
+  font-size: x-large;
+  text-align: center;
+}
